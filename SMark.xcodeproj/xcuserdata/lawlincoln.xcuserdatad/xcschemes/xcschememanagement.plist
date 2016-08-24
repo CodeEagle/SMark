@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>SMark.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>SMarkDown.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>SMarkOSX.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>162D9E4D1D6C4AFE00C8182A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>162D9E5C1D6C4C5A00C8182A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>162D9EAE1D6C50B300C8182A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>162D9ECF1D6C513C00C8182A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>165CCB6E1D6D378500002015</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>165CCB771D6D378500002015</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>168D8E0B1D6C16D20058FFDA</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>168D8E401D6C186B0058FFDA</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,6 @@
+framework module SMark {
+    umbrella header "SMark.h"
+        
+    export *
+    module * { export * }
+}
